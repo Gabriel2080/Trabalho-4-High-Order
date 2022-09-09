@@ -74,8 +74,8 @@ main = do
   print(comprimentoPalavras ["Haskell", "is", "awesome"])
   putStr "maiorMultiploDe29: resultado: "
   print(maiorMultiploDe29)
-  putStr "maiorMultiploDe: entrada: 29; resultado: "
-  print(maiorMultiploDe 29)
+  putStr "maiorMultiploDe: entrada: 64; resultado: "
+  print(maiorMultiploDe 64)
   putStr "somaQuadrados: entrada: 5; resultado: "
   print(somaQuadrados 5)
   putStr "comprimento: entrada: [1, 2, 3, 4, 5]; resultado: "
